@@ -1,0 +1,7 @@
+despues de sumar debemos generar:
+-dos aleatorios que sean diferentes
+-e intercambiar los valores de la solucion con esos dos numeros
+-realizamos la suma nuevamente
+-comparamos si la solucion cambiada es mejor que la actual y si lo es guardamos la solucion
+-
+

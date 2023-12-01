@@ -1,0 +1,6 @@
+generar dois numeros aleatorios  e intercambiar
+que dos parejas no se repitan
+cambiar el infinito
+
+solucion optima = 699
+aceptable 703
